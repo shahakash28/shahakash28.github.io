@@ -34,10 +34,13 @@ Publications/Pre-Prints
 Service
 ======
 1. Program Committee: [IEEE S&P 2023 Posters Program](https://sp2023.ieee-security.org/cfposters.html).
-1. External Reviewer: Algorithmica, TDSC, Eurocrypt 2022/23/24, CRYPTO 2022/24, CCS 2021, TCC 2022/23/24, Asiacrypt 2022, PKC 2019/21, Indocrypt 2018, ICISS 2017, Latincrypt 2017.
+1. External Reviewer: Algorithmica, TDSC, Eurocrypt 2022/23/24/25, CRYPTO 2022/24/25, CCS 2021, TCC 2022/23/24, Asiacrypt 2022, PKC 2019/21, Indocrypt 2018, ICISS 2017, Latincrypt 2017.
 
 Activities
 ======
+1. Presented our work "Zero-Knowledge RAM: Doubly Efficient and Black-Box" at Eurocrypt, 2025.
+1. Presented our work "Black-Box Constant-Round Secure 2PC with Succinct Communication" at Eurocrypt, 2025.
+1. Presented our work "On Reusable Proof Systems" at Eurocrypt, 2025.
 1. Invited Speaker at IISc to present our work titled "Doubly Efficient Black-Box Zero-Knowledge Arguments for RAM Programs", 2024.
 1. Presented our work "Succinct Arguments for RAM programs via projection codes" at Crypto, 2023.
 1. Presented our work "SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost" at USENIX, 2022.

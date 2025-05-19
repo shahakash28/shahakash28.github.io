@@ -16,6 +16,7 @@ Formerly, I was a Research Fellow at Microsoft Research (MSR) India, where I wor
 
 Publications/Pre-Prints
 ======
+1. Multiparty Garbling from OT with Linear Scaling and RAM Support (with D. Heath, V. Kolesnikov, V. Narayanan, R. Ostrovsky), Crypto, 2025.
 1. Zero-Knowledge RAM: Doubly Efficient and Black-Box (with Y. Ishai and R. Ostrovsky), Eurocrypt, 2025.
 1. Black-Box Constant-Round Secure 2PC with Succinct Communication (with M. Ciampi, A. Misra and R. Ostrovsky), Eurocrypt, 2025.
 1. On Reusable Proof Systems (with  Y. Ishai, E. Kushilevitz, V. Narayanan and R. Ostrovsky), Eurocrypt, 2025.
